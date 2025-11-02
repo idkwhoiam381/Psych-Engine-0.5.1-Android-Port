@@ -2,7 +2,7 @@ package;
 
 #if (android && MODS_ALLOWED)
 import android.AndroidTools;
-import android.stuff.Permissions;
+import android.Permissions;
 #end
 import lime.app.Application;
 import openfl.events.UncaughtErrorEvent;
