@@ -56,6 +56,7 @@
       "type": "git",
       "ref": "master",
       "url": "https://github.com/Daninnocent/extension-webview"
+    },
     {
       "name": "AndroidTools",
       "type": "git",
